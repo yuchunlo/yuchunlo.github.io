@@ -13,9 +13,12 @@ body {
   margin: 0;
   padding: 0;
 }
+a {
+  color: #2980b9;
+}
 #container {
   position: absolute;
-  margin: 0 auto 60px auto;
+  margin: 0 auto auto auto;
   max-width: 700px;
   padding: 0 2%;
   width: 100%;
@@ -130,8 +133,6 @@ body {
   font-weight: 700
 }
 */
-//.job {color: #ffcdd2}
-
 nav:after {
   content: "";
   display: table;
@@ -156,8 +157,6 @@ nav ul li {
   margin: 0;
   padding: 0;
   list-style: none;
-  border-bottom: 1px solid rgba(0,0,0,.1);
-  border-top: 1px solid hsla(0,0%,100%,.1)
 }
 nav ul li:after {
   content: "";
@@ -165,10 +164,6 @@ nav ul li:after {
   clear: both
 }
 nav ul li:hover {
-//  background: #f44336;
-//  color: #d32f2f;
-  border-bottom: 1px solid #f44336;
-  border-top: 1px solid #f44336
 }
 nav ul li:first-child {border-top: 0}
 nav ul li:last-child {box-shadow: 0 1px 0 hsla(0,0%,100%,.1)}
@@ -182,10 +177,6 @@ nav ul li a,nav ul li a:active,nav ul li a:visited {
   line-height: 1.6em;
   display: block;
   text-decoration: none;
-/*
-  color: #fff;
-  font-family: Source Code Pro
-*/
 }
 @media all and (max-width:64em) {
   nav ul li a,nav ul li a:active,nav ul li a:visited {
@@ -195,7 +186,6 @@ nav ul li a,nav ul li a:active,nav ul li a:visited {
   }
 }
 nav ul li a:active:hover,nav ul li a:hover,nav ul li a:visited:hover {
-  color: #fff;
   text-decoration: none
 }
 nav ul li a:active i,nav ul li a:visited i,nav ul li a i {padding: 0 10px 0 0}
