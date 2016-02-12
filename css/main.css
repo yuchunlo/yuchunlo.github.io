@@ -6,7 +6,7 @@ html {
   overflow-y: scroll;
   overflow-x: hidden;
   font-family: "Verdana", "LiHei Pro", "Microsoft JhengHei", sans-serif;
-  font-size: 110%;
+  font-size: 20px;
   line-height: 1.5em;
 }
 body {
