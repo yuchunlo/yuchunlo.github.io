@@ -3,9 +3,11 @@
 
 <head>
   <meta charset="utf-8">
-
-  <title>{{ page.title }} - {{ site.title }}</title>
-
+  {% if page.title and page.title != site.title %}
+    <title>{{ page.title }} - {{ site.title }}</title>
+  {% else %}
+    <title>{{ site.title }}</title>
+  {% endif %}
 <!--
   <meta name="description" content="
     ">
