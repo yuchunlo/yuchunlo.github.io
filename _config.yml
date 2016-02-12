@@ -1,4 +1,4 @@
 name: Yu-Chun Lo
 title: Yu-Chun Lo
-url: http://yuchunlo.tk/
-markdown: kramdown
+url: http://yuchunlo.tk
+markdown: rdiscount
