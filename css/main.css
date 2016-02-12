@@ -80,7 +80,7 @@ a {
 }
 .main-container {
   position: absolute;
-  top: 20%;
+  top: 40px;
   left: 440px;
   right: 100px;
   z-index: 1;
