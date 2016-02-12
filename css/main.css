@@ -94,12 +94,13 @@ a {
 
 .sidebar {
   position: fixed;
+  height: 100%;
   width: 25%;
   float: left;
-  top: 20px;
+  top: 0px;
   left: 40px;
-  background: #ecf0f1;
-  opacity: 0.2;
+  padding: 40px;
+  background-color: rgba(236, 240, 241, 0.2);
   z-index: 1;
 }
 .sidebar #bars {display: none}
