@@ -12,7 +12,7 @@ Although it became a hit in Europe, this song seems not that popular in the Unit
 
 Besides the beautiful rhythm, its lyric is meaningful as well. However I searched on Google for a while and failed to find the Chinese version of it. So I decide to try to make it myself.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rip0bX2qrIs" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rip0bX2qrIs" frameborder="0" allowfullscreen></iframe> {: .center-align}
 
     我即將前往
 
@@ -116,6 +116,6 @@ Besides the beautiful rhythm, its lyric is meaningful as well. However I searche
     我們互相傾訴秘密
 
     然後憶起該如何去愛
+    
 
-
-It is my first time to translate lyrics. Hope you enjoy it. Feel free to [send me an email](mailto:yuchunlo@gmail.com) if you have any thoughts or comments.
+It is my first time to translate lyrics. Hope you enjoy it. Feel free to [send me an email](mailto:yuchunlo.2401@gmail.com) if you have any thoughts or comments.
