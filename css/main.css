@@ -28,6 +28,9 @@ a {
   color: #2980b9;
   text-decoration: none;
 }
+.center-align {
+  text-align: right;
+}
 #container {
   position: absolute;
   margin: 0 auto auto auto;
