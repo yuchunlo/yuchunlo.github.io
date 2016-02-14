@@ -12,9 +12,7 @@ Although it became a hit in Europe, this song seems not that popular in the Unit
 
 Besides the beautiful rhythm, its lyric is meaningful as well. However I searched on Google for a while and failed to find the Chinese version of it. So I decide to try to make it myself.
 
-<p style="text-align: center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rip0bX2qrIs" frameborder="0" allowfullscreen></iframe>
-</p>
+<div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/Rip0bX2qrIs" frameborder="0" allowfullscreen></iframe></div>
 
     我即將前往
 
