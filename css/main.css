@@ -5,7 +5,7 @@ html {
   max-width: 100%;
   overflow-y: scroll;
   overflow-x: hidden;
-  font-family: "Verdana", "LiHei Pro", "Microsoft JhengHei", sans-serif !important;
+  font-family: "Verdana", "LiHei Pro", "Microsoft JhengHei", sans-serif;
   font-size: 20px;
   line-height: 2em;
   -webkit-font-smoothing: antialiased;
