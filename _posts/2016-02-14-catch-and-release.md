@@ -22,7 +22,7 @@ Besides the beautiful rhythm, its lyric is meaningful as well. However I searche
 
 而是必要之務
 
-
+ 
 
 在我所創造的世界
 
@@ -32,7 +32,7 @@ Besides the beautiful rhythm, its lyric is meaningful as well. However I searche
 
 細數繁星抵抗睡意
 
-
+ 
 
 就讓我沉沒其中
 
@@ -50,7 +50,7 @@ Besides the beautiful rhythm, its lyric is meaningful as well. However I searche
 
 然後才知長路漫漫
 
-
+ 
 
 所有人都有其苦衷
 
@@ -68,7 +68,7 @@ Besides the beautiful rhythm, its lyric is meaningful as well. However I searche
 
 然後憶起該如何去愛
 
-
+ 
 
 我即將前往
 
@@ -78,7 +78,7 @@ Besides the beautiful rhythm, its lyric is meaningful as well. However I searche
 
 生命本在呼吸之間
 
-
+ 
 
 就這樣緩慢的死去
 
@@ -88,7 +88,7 @@ Besides the beautiful rhythm, its lyric is meaningful as well. However I searche
 
 從我們開始的地方結束
 
-
+ 
 
 就讓我沉沒其中
 
@@ -106,7 +106,7 @@ Besides the beautiful rhythm, its lyric is meaningful as well. However I searche
 
 然後才知長路漫漫
 
-
+ 
 
 所有人都有其苦衷
 
@@ -123,6 +123,5 @@ Besides the beautiful rhythm, its lyric is meaningful as well. However I searche
 我們互相傾訴秘密
 
 然後憶起該如何去愛
-
 
 It is my first time to translate lyrics. Hope you enjoy it. Feel free to [send me an email](mailto:yuchunlo.2401@gmail.com) if you have any thoughts or comments.
