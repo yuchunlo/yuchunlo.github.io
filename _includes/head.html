@@ -3,6 +3,17 @@
 
 <head>
   <meta charset="utf-8">
+  {% if page.title and page.title != site.title %}
+    <title>{{ page.title }} | {{ site.title }}</title>
+  {% else %}
+    <title>{{ site.title }}</title>
+  {% endif %}
+<!--
+  <meta name="description" content="
+    ">
+
+  <link href="http://fonts.googleapis.com/css?family=Source+Code+Pro|Merriweather:400,700" rel="stylesheet" type="text/css">
+-->
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
   <link href="/css/main.css" rel="stylesheet" type="text/css">
   <meta property="og:title" content="Yu-Chun Lo">
