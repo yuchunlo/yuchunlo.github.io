@@ -6,12 +6,11 @@ permalink: /catch-and-release/
 tags: translation
 ---
 
-I first noticed and immediately got caught by the song <i>Catch & Release</i> by <a href="http://mattsimonsmusic.com/">Matt Simons</a> which is number two in <a href="http://www.billboard.com/charts/france-songs">Billboard's France Songs</a> <i>yesterday</i>. Yeah, a huge delay that over a year after it is released.<br>
-Although it became a hit in Europe, this song seems not that popular in the United States. It is not a news that the things trending in Taiwan often follows the US.<br>
-Besides the beautiful rhythm, its lyric is meaningful as well. However I searched on Google for a while and failed to find the Chinese version of it. So I decide to try to make it myself.<br>
-<br>
+<p>I first noticed and immediately got caught by the song <i>Catch & Release</i> by <a href="http://mattsimonsmusic.com/">Matt Simons</a> which is number two in <a href="http://www.billboard.com/charts/france-songs">Billboard's France Songs</a> <i>yesterday</i>. Yeah, a huge delay that over a year after it is released.</p>
+<p>Although it became a hit in Europe, this song seems not that popular in the United States. It is not a news that the things trending in Taiwan often follows the US.</p>
+<p>Besides the beautiful rhythm, its lyric is meaningful as well. However I searched on Google for a while and failed to find the Chinese version of it. So I decide to try to make it myself.</p>
 <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/Rip0bX2qrIs" frameborder="0" allowfullscreen></iframe></div>
-<br>
+<p>
     我即將前往<br>
     沒人認識我的地方<br>
     這不是孤獨<br>
@@ -67,5 +66,5 @@ Besides the beautiful rhythm, its lyric is meaningful as well. However I searche
     並透過血液遍流全身<br>
     我們互相傾訴秘密<br>
     然後憶起該如何去愛<br>
-<br>
+</p>
 It is my first time to translate lyrics. Hope you enjoy it. Feel free to <a href="mailto:yuchunlo.2401@gmail.com">send me an email</a> if you have any thoughts or comments.
