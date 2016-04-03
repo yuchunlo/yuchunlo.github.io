@@ -15,3 +15,14 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
     <link href="css/main.css" rel="stylesheet" type="text/css">
   </head>
+  <body>
+    <div class="container">
+      <div class="main-nav">
+        <div id="brand">Yu-Chun Lo</div>
+        <ul>
+          {% for menuItem in site.data.menu %}
+            <li{% if page.permalink == menuItem.permalink %} class="active"{% endif %}><a href="{{ menuItem.permalink }}">{{ menuItem.title }}</a></li>
+          {% endfor %}
+        </ul>
+      </div>
+      <div class="main-content">
