@@ -20,7 +20,7 @@ a:hover {
   font-size: 24px;
   font-weight: bold;
   line-height: 1.5em;
-  margin-bottom: 1em;
+  margin-bottom: 0.4em;
 }
 @media only screen and (min-width: 768px) and (max-width: 979px) {
   #page-title {
