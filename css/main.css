@@ -6,7 +6,6 @@ html {
 body {
   margin: 0;
   padding: 0;
-  margin-bottom: 0.7em;
 }
 a {
   color: #2980b9;
@@ -161,6 +160,8 @@ ul.dashed > li:before {
   .main-content {
     padding: 90px 20% 80px 20%;
   }
+.main-content p {
+  margin-bottom:0.7em;
 }
 .footer {
   position: fixed;
