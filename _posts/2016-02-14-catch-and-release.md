@@ -9,7 +9,7 @@ tags: translation
 <p>I first noticed and immediately got caught by the song <i>Catch & Release</i> by <a href="http://mattsimonsmusic.com/">Matt Simons</a> which is number two in <a href="http://www.billboard.com/charts/france-songs">Billboard's France Songs</a> <i>yesterday</i>. Yeah, a huge delay that over a year after it is released.</p>
 <p>Although it became a hit in Europe, this song seems not that popular in the United States. It is not a news that the things trending in Taiwan often follows the US.</p>
 <p>Besides the beautiful rhythm, its lyric is meaningful as well. However I searched on Google for a while and failed to find the Chinese version of it. So I decide to try to make it myself.</p>
-<div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/Rip0bX2qrIs" frameborder="0" allowfullscreen></iframe></div>
+<p><div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/Rip0bX2qrIs" frameborder="0" allowfullscreen></iframe></div></p>
 <p>
     我即將前往<br>
     沒人認識我的地方<br>
