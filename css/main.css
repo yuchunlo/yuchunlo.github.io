@@ -15,31 +15,6 @@ a:hover {
   border-bottom: 1px solid;
   padding-bottom: 2px;
 }
-#page-title {
-  font-family: "Verdana", "PingFang TC", "Microsoft JhengHei", sans-serif;
-  font-size: 24px;
-  font-weight: bold;
-  line-height: 1.5em;
-  margin-bottom: 0.4em;
-}
-@media only screen and (min-width: 768px) and (max-width: 979px) {
-  #page-title {
-    font-size: 34px;
-    padding-bottom: 24px;
-  }
-}
-@media only screen and (min-width: 980px) {
-  #page-title {
-    font-size: 40px;
-    line-height: 1.3em;
-    padding-bottom: 24px;
-  }
-}
-#date {
-  color: gray;
-  font-family: "Verdana", "PingFang TC", "Microsoft JhengHei", sans-serif;
-  font-size: 11px;
-}
 ul {
   margin: 0;
 }
@@ -91,53 +66,42 @@ ul.dashed > li:before {
   }
 }
 .main-nav #brand {
-  width: 200px;
   text-align: center;
-  margin: auto;
   font-size: 24px;
   padding-top: 17px;
   font-weight: bold;
 }
 @media only screen and (min-width: 768px) and (max-width: 979px) {
   .main-nav #brand {
-    position: fixed;
-    text-align: left;
+    float: left;
     padding-left: 10%;
   }
 }
 @media only screen and (min-width: 980px) {
   .main-nav #brand {
-    position: fixed;
-    text-align: left;
+    float: left;
     padding-left: 10%;
   }
 }
 .main-nav ul {
   width: 250px;
-  text-align: center;
   margin: auto;
-  padding: 17px 0px 0px 10px;
+  padding: 17px 0px 0px 25px;
   list-style: none;
 }
 @media only screen and (min-width: 768px) and (max-width: 979px) {
   .main-nav ul {
-    position: fixed;
-    text-align: left;
-    padding-top: 19px;
-    padding-left: 70%;
-  }
+    float: right;
+    padding-top: 20px;
+	}
 }
 @media only screen and (min-width: 980px) {
   .main-nav ul {
-    position: fixed;
-    text-align: left;
-    padding-top: 19px;
-    padding-left: 70%;
+    float: right;
+    padding-top: 20px;
   }
 }
 .main-nav li {
-  position: relative;
-  display: block;
   padding: 0px 20px;
   float: left;
 }
@@ -163,6 +127,31 @@ ul.dashed > li:before {
 }
 .main-content p {
   margin: 0 0 0.7em 0;
+}
+#page-title {
+  font-family: "Verdana", "PingFang TC", "Microsoft JhengHei", sans-serif;
+  font-size: 24px;
+  font-weight: bold;
+  line-height: 1.5em;
+  margin-bottom: 0.4em;
+}
+@media only screen and (min-width: 768px) and (max-width: 979px) {
+  #page-title {
+    font-size: 34px;
+    padding-bottom: 24px;
+  }
+}
+@media only screen and (min-width: 980px) {
+  #page-title {
+    font-size: 40px;
+    line-height: 1.3em;
+    padding-bottom: 24px;
+  }
+}
+#date {
+  color: gray;
+  font-family: "Verdana", "PingFang TC", "Microsoft JhengHei", sans-serif;
+  font-size: 11px;
 }
 .footer {
   position: fixed;
