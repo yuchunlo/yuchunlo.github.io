@@ -68,7 +68,7 @@ ul.dashed > li:before {
 .main-nav #brand {
   text-align: center;
   font-family: 'Courgette', cursive;
-  font-size: 24px;
+  font-size: 29px;
   padding-top: 17px;
   font-weight: bold;
 }
@@ -134,7 +134,7 @@ ul.dashed > li:before {
 }
 #page-title {
   font-family: 'Verdana', 'PingFang TC', 'Microsoft JhengHei', sans-serif;
-  font-size: 29px;
+  font-size: 24px;
   font-weight: bold;
   line-height: 1.5em;
   margin-bottom: 0.4em;
