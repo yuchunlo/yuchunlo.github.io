@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <i>Catch & Release</i> by Matt Simons
+title: Catch & Release by Matt Simons
 date: 2016-02-14
 permalink: /catch-and-release/
 tags: translation
