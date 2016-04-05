@@ -53,7 +53,7 @@ ul.dashed > li:before {
   border-color: lightgray;
   border-width: thin;
   border-bottom-style: solid;
-  background-color: white;
+  background: white;
   font-family: 'Verdana', 'PingFang TC', 'Microsoft JhengHei', sans-serif;
   z-index: 20;
 }
