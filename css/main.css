@@ -68,7 +68,7 @@ ul.dashed > li:before {
 .main-nav #brand {
   text-align: center;
   font-family: 'Courgette', cursive;
-  font-size: 29px;
+  font-size: 24px;
   padding-top: 17px;
   font-weight: bold;
 }
@@ -76,14 +76,14 @@ ul.dashed > li:before {
   .main-nav #brand {
     float: left;
     padding-left: 10%;
-    font-size: 24px;
+    font-size: 29px;
   }
 }
 @media only screen and (min-width: 980px) {
   .main-nav #brand {
     float: left;
     padding-left: 10%;
-    font-size: 24px;
+    font-size: 29px;
   }
 }
 .main-nav ul {
