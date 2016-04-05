@@ -1,5 +1,5 @@
 html {
-  font-family: "Georgia", "PingFang TC", "Microsoft JhengHei", serif;
+  font-family: 'Georgia', 'PingFang TC', 'Microsoft JhengHei', serif;
   font-size: 17px;
   line-height: 1.7em;
 }
@@ -25,7 +25,7 @@ ul.dashed > li {
   text-indent: -10px;
 }
 ul.dashed > li:before {
-  content: "-  ";
+  content: '-  ';
 }
 .video-container {
   position: relative;
@@ -52,7 +52,7 @@ ul.dashed > li:before {
   overflow: hidden;
   box-shadow: 0 0 20px 5px rgba(0,0,0,0.2);
   background: white;
-  font-family: "Verdana", "PingFang TC", "Microsoft JhengHei", sans-serif;
+  font-family: 'Verdana', 'PingFang TC', 'Microsoft JhengHei', sans-serif;
   z-index: 20;
 }
 @media only screen and (min-width: 768px) and (max-width: 979px) {
@@ -67,6 +67,7 @@ ul.dashed > li:before {
 }
 .main-nav #brand {
   text-align: center;
+  font-family: 'Courgette', cursive;
   font-size: 24px;
   padding-top: 17px;
   font-weight: bold;
@@ -129,7 +130,7 @@ ul.dashed > li:before {
   margin: 0 0 0.7em 0;
 }
 #page-title {
-  font-family: "Verdana", "PingFang TC", "Microsoft JhengHei", sans-serif;
+  font-family: 'Verdana', 'PingFang TC', 'Microsoft JhengHei', sans-serif;
   font-size: 24px;
   font-weight: bold;
   line-height: 1.5em;
@@ -150,7 +151,7 @@ ul.dashed > li:before {
 }
 #date {
   color: gray;
-  font-family: "Verdana", "PingFang TC", "Microsoft JhengHei", sans-serif;
+  font-family: 'Verdana', 'PingFang TC', 'Microsoft JhengHei', sans-serif;
   font-size: 11px;
 }
 .footer {
