@@ -85,8 +85,8 @@ ul.dashed > li:before {
   }
 }
 .main-nav ul {
-  font-size: 14px;
-  letter-spacing: 2px;
+  font-size: 13px;
+  letter-spacing: 3px;
   text-transform: uppercase;
   width: 250px;
   margin: auto;
