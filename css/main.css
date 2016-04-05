@@ -51,6 +51,7 @@ ul.dashed > li:before {
   width: 100%;
   overflow: hidden;
   border-color: gray;
+  border-width: thin;
   border-bottom-style: solid;
   background: white;
   font-family: 'Verdana', 'PingFang TC', 'Microsoft JhengHei', sans-serif;
