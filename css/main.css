@@ -71,10 +71,12 @@ ul.dashed > li:before {
   text-align: center;
   font-family: 'Courgette', cursive;
   font-size: 24px;
-  color: black !important;
   padding-top: 17px;
   font-weight: bold;
 }
+  .main-nav #brand a, a:hover {
+    color: black;
+  }
 @media only screen and (min-width: 768px) and (max-width: 979px) {
   .main-nav #brand {
     float: left;
