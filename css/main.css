@@ -71,6 +71,7 @@ ul.dashed > li:before {
   text-align: center;
   font-family: 'Courgette', cursive;
   font-size: 24px;
+  color: black;
   padding-top: 17px;
   font-weight: bold;
 }
