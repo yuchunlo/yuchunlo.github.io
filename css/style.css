@@ -52,7 +52,7 @@ ul.none > li:before {
 }
 .container {
 }
-.main-nav{
+.main-nav {
   position: fixed;
   height: 100px;
   width: 100%;
@@ -65,12 +65,12 @@ ul.none > li:before {
   z-index: 20;
 }
 @media only screen and (min-width: 768px) and (max-width: 979px) {
-  .main-nav{
+  .main-nav {
     height: 70px;
   }
 }
 @media only screen and (min-width: 980px) {
-  .main-nav{
+  .main-nav {
     height: 70px;
   }
 }
@@ -120,7 +120,7 @@ ul.none > li:before {
   }
 }
 .main-nav li {
-  padding: 0px 24px;
+  padding: 0px 20px;
   float: left;
 }
 .main-nav a {
@@ -148,7 +148,7 @@ ul.none > li:before {
 }
 #page-title {
   font-family: 'Verdana', 'PingFang TC', 'Microsoft JhengHei', sans-serif;
-  font-size: 24px;
+  font-size: 28px;
   font-weight: normal;
   line-height: 1.5em;
   margin-bottom: 0.4em;
