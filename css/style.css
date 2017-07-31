@@ -79,7 +79,7 @@ ul.none > li:before {
   font-family: 'Courgette', cursive;
   font-size: 24px;
   padding-top: 17px;
-  font-weight: bold;
+  font-weight: normal;
 }
   .main-nav #brand a, a:hover {
     color: black;
