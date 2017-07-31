@@ -18,8 +18,8 @@ a:hover {
 }
 ul {
   list-style: none;
-  padding-left: 0;
-  margin-left: 0;
+  padding: 0;
+  margin: 0 0 10 0;
 }
 li { 
   padding-left: 16px; 
@@ -27,6 +27,9 @@ li {
 li:before {
   content: "-";
   padding-right: 8px;
+}
+ul.none > li:before {
+  content: '';
 }
 .video-container {
   position: relative;
