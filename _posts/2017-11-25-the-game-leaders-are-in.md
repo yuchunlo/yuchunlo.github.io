@@ -41,6 +41,8 @@ Infinite players are competing against themselves. How do they find new solution
 
 Every single bankruptcy, almost every merger and acquisition is basically a company saying: we no longer have the will or the resources to continue to play, and we have no choice to either drop out of the game or merge our resources with another player so that we can stay in the game.
 
+---
+
 Simon Sinek 認為偉大的領導者必須擁有同理心和觀點。
 
 ## 同理心
