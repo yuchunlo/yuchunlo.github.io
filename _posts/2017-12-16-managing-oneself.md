@@ -53,7 +53,7 @@ You can prepare for and develop a second career by moving from one kind of organ
 
 ---
 
-以下是個人閱讀彼得．杜拉克所著之[《自我管理》](https://www.hbrtaiwan.com/article_content_AR0000624.html)的筆記。
+以下是個人閱讀彼得．杜拉克所著之[〈自我管理〉](https://www.hbrtaiwan.com/article_content_AR0000624.html)的筆記。
 
 我們總是追尋自己的理想工作並期望自我實現。你可以透過 [SMART 原則](https://zh.wikipedia.org/zh-tw/SMART%E5%8E%9F%E5%88%99)重新建構此目標，以協助你進一步邁向成功。在大部分情況下，最重要的問題便是：依據我的長處、行事風格和價值觀，今後一年半內，我可以在哪些領域、透過什麼方式做出最大貢獻並發揮影響力。我們可以進一步將此問題解析為下列要素：
 
