@@ -16,6 +16,7 @@ People want to be living in their dream jobs that lead to life fulfillment. To h
 
 ## How do I perform?
 > Just as people achieve results by doing what they are good at, they also achieve results by working in ways that they best perform. A few common personality traits usually determine how a person performs.
+
 - Am I a reader or a listener (i.e. effective in oral or written communication)?
 - How do I learn? Do I learn by listening, reading, writing, talking, or doing?
 - Do I work well with people, or am I a loner? And if you do work well with people, you then must ask, In what relationship?
@@ -63,6 +64,7 @@ You can prepare for and develop a second career by moving from one kind of organ
 
 # 我的行事風格是什麼？
 > 長處和行事風格是讓你實現成就的關鍵，而後者的決定性因素便是你的人格特質。
+
 - 我是閱讀者 (擅長口語溝通) 還是聆聽者 (擅長書面溝通)？
 - 我是怎麼學習的？我是透過聆聽、閱讀、書寫、談話還是實作進行學習？
 - 我擅於合作還是單打獨鬥？若為前者，我又適合以什麼關係與人合作？
