@@ -11,7 +11,9 @@ People want to be living in their dream jobs that lead to life fulfillment. To h
 
 ## What are my strengths?
 > A person can perform only from strength.
+
 > The only way to discover your strengths is through feedback analysis. Whenever you make a key decision or take a key action, write down what you expect will happen. Nine or 12 months later, compare the actual results with your expectations.
+
 > Practiced consistently, this simple method will show you within a fairly short period of time, maybe two or three years, where your strengths lie—and this is the most important thing to know. The method will show you what you are doing or failing to do that deprives you of the full benefits of your strengths.
 
 ## How do I perform?
@@ -27,6 +29,7 @@ People want to be living in their dream jobs that lead to life fulfillment. To h
 Values determine your own priority.
 
 > [Mirror test:] Ethics requires that you ask yourself, What kind of person do I want to see in the mirror in the morning? What is ethical behavior in one kind of organization or situation is ethical behavior in another. But ethics is only part of a value system—especially of an organization's value system.
+
 > To work in an organization whose value system is unacceptable or incompatible with one's own condemns a person both to frustration and to nonperformance.
 
 After knowing the answer of these three questions, the next key step is to act on this knowledge. Don't try to change yourself. Instead, it's far more effective to concentrate on your strengths and work on acquiring the knowledge, skills and habits you need to fully realize your strengths.
@@ -39,8 +42,11 @@ There are two other things we can discuss with regard to this topic.
 
 ## Responsibility for relationships
 > Most people work with others and are effective with other people. That is true whether they are members of an organization or independently employed. Managing yourself requires taking responsibility for relationships.
+
 > Organizations are no longer built on force but on trust. The existence of trust between people does not necessarily mean that they like one another. It means that they understand one another.
+
 > The first secret of effectiveness is to understand the people you work with and depend on so that you can make use of their strengths, their ways of working, and their values.
+
 > The second part of relationship responsibility is taking responsibility for communication [to let other people know what you are good at, how you work, what are your values, and your proposed contribution].
 
 ## The second half of your life
@@ -49,6 +55,7 @@ There are two other things we can discuss with regard to this topic.
 You can prepare for and develop a second career by moving from one kind of organization to another, developing a parallel career (usually in a nonprofit organization, that takes another ten hours of work a week), or becoming a social entrepreneur.
 
 > No one can expect to live very long without experiencing a serious setback in his or her life or work. In a society in which success has become so terribly important, having options will become increasingly vital.
+
 > Wherever there is success, there has to be failure.
 
 ---
@@ -59,7 +66,9 @@ You can prepare for and develop a second career by moving from one kind of organ
 
 ## 我的長處是什麼？
 > 唯有盡己所長才能脫穎而出。
+
 > 「回饋分析」是發掘自身優勢的唯一方法。你必須在每次做出重大決策或行動時寫下預期發生的結果，並在 9-12 個月後比較預測和實際結果。
+
 > 只要持之以恆，短短 2-3 年內，你就可以透過這個簡單的方法，觀察這段時間的為和不為以瞭解自己的長處。
 
 # 我的行事風格是什麼？
@@ -75,6 +84,7 @@ You can prepare for and develop a second career by moving from one kind of organ
 價值觀決定你的優先要務。
 
 > [鏡子檢驗：] 道德要求你自問：我希望早上在鏡子裡看到怎樣的自己？道德放諸四海皆準，但這只是 (組織) 價值體系的一部分。
+
 > 身處於價值體系與個人價值觀不相容的組織，勢必讓人感到挫折而難有表現。
 
 根據這些自我認知採取行動是邁向卓越的關鍵。你應該透過積極獲取和培養相關知識、技能和習慣，專注於充分發揮並強化自身優勢，絕對不要嘗試改變自己的本性。
@@ -87,8 +97,11 @@ You can prepare for and develop a second career by moving from one kind of organ
 
 ## 為人際關係負起責任
 > 無論是身為組織成員或獨立工作者，多數人都必須與他人共事才能有效達成目的。因此為人際關係負起責任也是自我管理的課題之一。
+
 > 現代組織的基礎不再是力量，而是信任。人與人之間的信任不一定代表彼此互相欣賞，而是代表互相瞭解。
+
 > 高效工作的首要祕訣便是瞭解共事和相互依存的對象，並將其長處、行事風格和價值觀運用於工作之中。
+
 > 人際關係的第二個部分便是負起溝通責任 [透過充分溝通，讓他人瞭解你]。
 
 ## 規畫人生下半場
