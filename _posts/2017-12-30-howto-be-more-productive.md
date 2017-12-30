@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HOWTO Be more productive
+title: HOWTO&#58; Be more productive
 date: 2017-12-30
 permalink: /howto-be-more-productive/
 ---
