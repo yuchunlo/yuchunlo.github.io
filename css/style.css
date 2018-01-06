@@ -37,6 +37,7 @@ ul.none > li:before {
 blockquote {
   border-left: 7px solid lightgray;
   padding-left: 17px;
+  white-space: pre-wrap;
 }
 .video-container {
   position: relative;
