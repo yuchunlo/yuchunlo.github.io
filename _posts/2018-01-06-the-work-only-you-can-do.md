@@ -21,7 +21,7 @@ There are two facts when it refers to your strengths:
 - Your individual skill set follows a power law. It means your performance is built on a small number of skills of you.
 - Your strengths never fall within "industrial notions of boundedness around skill sets" as they are not commoditazible but monopolistic.
 
-> Productivity, and profits, in an entrepreneurial economy are achieved by working on complex projects where progress isn't made in a straight line, but in a seemingly [rambling, meandering](http://www.tempobook.com/2011/08/17/daemons-and-the-mindful-learning-curve/){:target="_blank"}path, combining different concepts, skill sets and experiences from different domains.
+> Productivity, and profits, in an entrepreneurial economy are achieved by working on complex projects where progress isn't made in a straight line, but in a seemingly [rambling, meandering](http://www.tempobook.com/2011/08/17/daemons-and-the-mindful-learning-curve/){:target="_blank"} path, combining different concepts, skill sets and experiences from different domains.
 
 If we categorize our work using [Cynefin framework](https://hbr.org/2007/11/a-leaders-framework-for-decision-making){:target="_blank"}, you can see "boundedness in the entrepreneurial economy is complex instead of complicated." There is no specific way to get the right answer to resolve the "unknown unknowns" in the complex domain. This is where your unique strengths come into play.
 
