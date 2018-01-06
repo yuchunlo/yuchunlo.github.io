@@ -56,7 +56,7 @@ As Casey Neistat says, "Persistence and endurance will make you omnipotent," so 
 
 ---
 
-以下是個人閱讀 Taylor Pearson 所撰寫之〈4 Strategies To Find The Work Only You Can Do (And Why It's More Profitable Than Ever)〉的筆記。
+以下是個人閱讀泰勒．皮爾森所撰寫之〈4 Strategies To Find The Work Only You Can Do (And Why It's More Profitable Than Ever)〉的筆記。
 
 ### 專屬於你的工作
 一般人的職涯都會經歷足堪勝任、出類拔萃和功成利達等階段，卻也僅止於此。但職涯的最終階段應該是找到專屬於你的工作，開創獨占市場。
@@ -97,7 +97,7 @@ Marc Andreessen 曾分享他提升個人效率的技巧，其中一項就是「�
 
 一般人確實難以徹底實踐這項原則，但你也可以選擇在特定日期或範嚋內予以實行。
 
-#### 遵行否行式效率法
+#### 遵行否定式效率法
 > 提升效率的正確方法是善用減法而非加法。
 
 透過排除旁騖、自動化和授權來簡化生活可讓你專注於最重要的任務。但請記住，提摩西．費里斯提醒我們「絕不自動化可排除的任務，也絕不授權可自動化或簡化的任務」。
