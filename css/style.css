@@ -37,7 +37,6 @@ ul.none > li:before {
 blockquote {
   border-left: 7px solid lightgray;
   padding-left: 17px;
-  white-space: pre-wrap;
 }
 .video-container {
   position: relative;
@@ -87,7 +86,7 @@ blockquote {
   font-weight: normal;
 }
   .main-nav #brand a, a:hover {
-    color: black;
+    color: gray;
   }
 @media only screen and (min-width: 768px) and (max-width: 979px) {
   .main-nav #brand {
