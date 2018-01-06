@@ -29,12 +29,12 @@ If we categorize our work using [Cynefin framework](https://hbr.org/2007/11/a-le
 
 ### 4 strategies to find the work only you can do
 #### Find The Resistance. Run Towards It.
-> Most of us have two lives. The life we live, and the unlived life within us. Between the two stands Resistance.
-> [...]
-> Are you paralyzed with fear? That's a good sign.
-> Fear is good. Like self-doubt, fear is an indicator. Fear tells us what we have to do.
-> Remember our rule of thumb: The more scared we are of a work or calling, the more sure we can be that we have to do it.
-> Resistance is experienced as fear; the degree of fear equates to the strength of Resistance. Therefore the more fear we feel about a specific enterprise, the more certain we can be that that enterprise is important to us and to the growth of our soul. That's why we feel so much Resistance. If it meant nothing to us, there'd be no Resistance.
+> Most of us have two lives. The life we live, and the unlived life within us. Between the two stands Resistance.<br>
+> [...]<br>
+> Are you paralyzed with fear? That's a good sign.<br>
+> Fear is good. Like self-doubt, fear is an indicator. Fear tells us what we have to do.<br>
+> Remember our rule of thumb: The more scared we are of a work or calling, the more sure we can be that we have to do it.<br>
+> Resistance is experienced as fear; the degree of fear equates to the strength of Resistance. Therefore the more fear we feel about a specific enterprise, the more certain we can be that that enterprise is important to us and to the growth of our soul. That's why we feel so much Resistance. If it meant nothing to us, there'd be no Resistance.<br>
 > – Steven Pressfield, *The War of Art*.
 
 #### Do an anti-productivity productivity day
@@ -80,12 +80,12 @@ As Casey Neistat says, "Persistence and endurance will make you omnipotent," so 
 
 ### 4 種方法助你找到專屬於你工作
 #### 正面迎擊你的抗拒心理
-> 大部分的人都擁有兩種生活選擇：一是我們所選擇的生活，二是我們內心嚮往卻未曾實踐的生活。這兩者之間的區隔便是抗拒心理。
-> [...]
-> 你正因恐懼而手足失措嗎？這是好現象。
-> 恐懼是好事。恐懼如同自我懷疑，都是指引我們人生使命的指標。
-> 你要記住我們的經驗法則：我們愈是怯於某項工作或使命，便愈能肯定我們的天命所歸之處。
-> 恐懼是抗拒心理的具體體驗，恐懼程度就等同於抗拒心理的強度。因此，我們愈是對某項事業感到恐懼，便愈發確定該事業對我們本身和心靈成長的重要性。這也是抗拒心理的來源，我們不會對毫無意義的任務心生抗拒。
+> 大部分的人都擁有兩種生活選擇：一是我們所選擇的生活，二是我們內心嚮往卻未曾實踐的生活。這兩者之間的區隔便是抗拒心理。<br>
+> [...]<br>
+> 你正因恐懼而手足失措嗎？這是好現象。<br>
+> 恐懼是好事。恐懼如同自我懷疑，都是指引我們人生使命的指標。<br>
+> 你要記住我們的經驗法則：我們愈是怯於某項工作或使命，便愈能肯定我們的天命所歸之處。<br>
+> 恐懼是抗拒心理的具體體驗，恐懼程度就等同於抗拒心理的強度。因此，我們愈是對某項事業感到恐懼，便愈發確定該事業對我們本身和心靈成長的重要性。這也是抗拒心理的來源，我們不會對毫無意義的任務心生抗拒。<br>
 > – 史蒂芬．普雷斯菲爾德，《藝術之戰》
 
 #### 享受反效率的高效生活
@@ -105,4 +105,4 @@ Marc Andreessen 曾分享他提升個人效率的技巧，其中一項就是「�
 #### 透過他人的視角發掘你的獨特優勢
 從你的童年、學生時代、職場生涯等不同人生經歷中挑選 10 個非常瞭解你的人，並透過電子郵件請問他們認為讓你有別於他人的特質、天賦和長處。你可以從所有回覆中找出共同點和重複出現的任何字詞，然後回想這些優勢如何塑造你和你的人生發展。
 
-正如凱西．奈斯塔特所言：「不厭其煩的堅持不懈讓我們無所不能」。無論如何，請留在來自赫爾辛基的人生巴士上，這也是讓你達到卓異彼岸的惟一途徑。
+正如凱西．奈斯塔特所言：「不厭其煩的堅持不懈讓我們無所不能」。無論如何，請留在來自赫爾辛基的人生巴士上，而這也是讓你達到卓異彼岸的惟一途徑。
