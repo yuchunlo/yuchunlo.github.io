@@ -5,7 +5,7 @@ date: 2017-12-16
 permalink: /managing-oneself/
 ---
 
-Here is my note for *[Managing Oneself](https://hbr.org/2005/01/managing-oneself){:target="_blank"}* by Peter F. Drucker.
+Here is my note for ["Managing Oneself"](https://hbr.org/2005/01/managing-oneself){:target="_blank"} by Peter F. Drucker.
 
 People want to be living in their dream jobs that lead to life fulfillment. To help you to land your dream job, we can reframe it as a [SMART goal](https://en.wikipedia.org/wiki/SMART_criteria){:target="_blank"} and the question in most cases should be: Given my strengths, my way of performing, and my values, where and how can I make the greatest contribution and achieve results that will make a difference within the next year and a half? Let's deconstruct the question further:
 
