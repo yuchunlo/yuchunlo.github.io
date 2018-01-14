@@ -5,7 +5,7 @@ date: 2018-01-06
 permalink: /the-work-only-you-can-do/
 ---
 
-Here is my note for "[4 Strategies To Find The Work Only You Can Do (And Why It's More Profitable Than Ever)](https://taylorpearson.me/thework/){:target="_blank"}" by Taylor Pearson.
+Here is my note for ["4 Strategies To Find The Work Only You Can Do (And Why It's More Profitable Than Ever)"](https://taylorpearson.me/thework/){:target="_blank"} by Taylor Pearson.
 
 ## The work only you can do
 There are stages of a career: getting competent, getting good, getting paid well, and most people stop here. But there is a final stage on which a monopoly founded. It's "the work only you can do."
