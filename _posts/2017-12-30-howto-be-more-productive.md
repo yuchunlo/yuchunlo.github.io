@@ -5,7 +5,7 @@ date: 2017-12-30
 permalink: /howto-be-more-productive/
 ---
 
-Here is my note for "[HOWTO: Be more productive](http://www.aaronsw.com/weblog/productivity)" by Aaron Swartz.
+Here is my note for ["HOWTO: Be more productive"](http://www.aaronsw.com/weblog/productivity) by Aaron Swartz.
 
 ## Spend time efficiently
 
