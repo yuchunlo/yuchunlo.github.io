@@ -5,9 +5,9 @@ date: 2017-12-16
 permalink: /managing-oneself/
 ---
 
-Here is my note for *[Managing Oneself](https://hbr.org/2005/01/managing-oneself)* by Peter F. Drucker.
+Here is my note for *[Managing Oneself](https://hbr.org/2005/01/managing-oneself){:target="_blank"}* by Peter F. Drucker.
 
-People want to be living in their dream jobs that lead to life fulfillment. To help you to land your dream job, we can reframe it as a [SMART goal](https://en.wikipedia.org/wiki/SMART_criteria) and the question in most cases should be: Given my strengths, my way of performing, and my values, where and how can I make the greatest contribution and achieve results that will make a difference within the next year and a half? Let's deconstruct the question further:
+People want to be living in their dream jobs that lead to life fulfillment. To help you to land your dream job, we can reframe it as a [SMART goal](https://en.wikipedia.org/wiki/SMART_criteria){:target="_blank"} and the question in most cases should be: Given my strengths, my way of performing, and my values, where and how can I make the greatest contribution and achieve results that will make a difference within the next year and a half? Let's deconstruct the question further:
 
 ## What are my strengths?
 > A person can perform only from strength.
@@ -60,9 +60,9 @@ You can prepare for and develop a second career by moving from one kind of organ
 
 ---
 
-以下是個人閱讀彼得．杜拉克所撰寫之[〈自我管理〉](https://www.hbrtaiwan.com/article_content_AR0000624.html)的筆記。
+以下是個人閱讀彼得．杜拉克所撰寫之[〈自我管理〉](https://www.hbrtaiwan.com/article_content_AR0000624.html){:target="_blank"}的筆記。
 
-我們總是追尋自己的理想工作並期望自我實現。你可以透過 [SMART 原則](https://zh.wikipedia.org/zh-tw/SMART%E5%8E%9F%E5%88%99)重新建構此目標，以協助你進一步邁向成功。在大部分情況下，最重要的問題便是：依據我的長處、行事風格和價值觀，今後一年半內，我可以在哪些領域、透過什麼方式做出最大貢獻並發揮影響力。我們可以進一步將此問題解析為下列要素：
+我們總是追尋自己的理想工作並期望自我實現。你可以透過 [SMART 原則](https://zh.wikipedia.org/zh-tw/SMART%E5%8E%9F%E5%88%99){:target="_blank"}重新建構此目標，以協助你進一步邁向成功。在大部分情況下，最重要的問題便是：依據我的長處、行事風格和價值觀，今後一年半內，我可以在哪些領域、透過什麼方式做出最大貢獻並發揮影響力。我們可以進一步將此問題解析為下列要素：
 
 ## 我的長處是什麼？
 > 唯有盡己所長才能脫穎而出。
