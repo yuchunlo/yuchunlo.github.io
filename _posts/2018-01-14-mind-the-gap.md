@@ -30,7 +30,7 @@ The extraordinary skills and determination are root causes of variation in incom
 
 ---
 
-以下是個人閱讀保羅．葛拉漢所撰寫之〈关注贫富分化〉([阮一峰譯](http://www.ruanyifeng.com/docs/pg/){:target="_blank"}") 的筆記。
+以下是個人閱讀保羅．葛拉漢所撰寫之〈关注贫富分化〉([阮一峰譯](http://www.ruanyifeng.com/docs/pg/){:target="_blank"}) 的筆記。
 
 > 大部分的經濟謬誤都源自於人們傾向將所有人的利益總和假設為大小固定的餡餅，也就是說其中一方所獲得的利益必須以另一方的犧牲作為代價。<br>
 > – 米爾頓．傅利曼《選擇的自由》
