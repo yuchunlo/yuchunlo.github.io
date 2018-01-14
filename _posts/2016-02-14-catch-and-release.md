@@ -6,9 +6,12 @@ permalink: /catch-and-release/
 tags: translation
 ---
 
-<p>I first noticed and immediately got caught by the song <i>Catch & Release</i> by <a href="http://mattsimonsmusic.com/">Matt Simons</a> which is number two in <a href="http://www.billboard.com/charts/france-songs">Billboard's France Songs</a> <i>yesterday</i>. Yeah, a huge delay that over a year after it is released.</p>
-<p>Although it became a hit in Europe, this song seems not that popular in the United States. It is not a news that the things trending in Taiwan often follows the US.</p>
-<p>Besides the beautiful rhythm, its lyric is meaningful as well. However I searched on Google for a while and failed to find the Chinese version of it. So I decide to try to make it myself.</p>
+I first noticed and immediately got caught by the song *Catch & Release* by [Matt Simons](http://mattsimonsmusic.com/){:target="_blank"} which is number two in [Billboard's France Songs](http://www.billboard.com/charts/france-songs){:target="_blank"} *yesterday*. Yeah, a huge delay that over a year after it is released.
+
+Although it became a hit in Europe, this song seems not that popular in the United States. It is not a news that the things trending in Taiwan often follows the US.
+
+Besides the beautiful rhythm, its lyric is meaningful as well. However I searched on Google for a while and failed to find the Chinese version of it. So I decide to try to make it myself.
+
 <p><div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/Rip0bX2qrIs" frameborder="0" allowfullscreen></iframe></div></p>
 <p>
     我即將前往<br>
@@ -67,4 +70,4 @@ tags: translation
     我們互相傾訴秘密<br>
     然後憶起該如何去愛<br>
 </p>
-It is my first time to translate lyrics. Hope you enjoy it. Feel free to <a href="mailto:yuchunlo.2401@gmail.com">send me an email</a> if you have any thoughts or comments.
+It is my first time to translate lyrics. Hope you enjoy it. Feel free to [send me an email](mailto:yuchunlo.2401@gmail.com) if you have any thoughts or comments.
