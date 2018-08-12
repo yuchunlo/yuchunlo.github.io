@@ -6,6 +6,7 @@ html {
 body {
   margin: 0;
   padding: 0;
+  overflow-x:hidden;
 }
 a {
   color: #2980b9;
@@ -191,4 +192,107 @@ blockquote {
 .footer a:hover {
   color: #2980b9;
   border-bottom: none;
+}
+.section-head {
+  float: left;
+  position: relative;
+  width: 100vw;
+  left: calc(-50vw + 50%);
+  background: dodgerblue;
+  color: white;
+  padding: 40px 0px 40px 0px;
+}
+.section-head:after {
+  position: absolute;
+  content: " ";
+  display: block;
+  left: 0;
+  bottom: -40px;
+  border-style: solid;
+  border-width: 0 100vw 40px 0;
+  border-color: transparent dodgerblue transparent transparent;
+}
+.section-white {
+  float: left;
+  position: relative;
+  width: 100vw;
+  left: calc(-50vw + 50%);
+  background: white;
+  color: royalblue;
+  top: 40px;
+  padding: 40px 0px 40px 0px;
+}
+.section-blue {
+  float: left;
+  position: relative;
+  width: 100vw;
+  left: calc(-50vw + 50%);
+  background: dodgerblue;
+  color: white;
+  top: 40px;
+  padding: 40px 0px 40px 0px;
+}
+.slogan {
+  font-size: 26px;
+  line-height: 1.5em;
+  font-family: 'Verdana', 'PingFang TC', 'Microsoft JhengHei', sans-serif;
+  text-align: center;
+  margin-bottom: 20px;
+}
+.slogan big {
+  font-size: 90px;
+  line-height: 0.9em;
+}
+@media only screen and (min-width: 768px) {
+  .slogan {
+    font-size: 40px;
+  }
+}
+.point-graphic {
+  display: block;
+  font-size: 70px;
+  line-height: 1.7em;
+  text-align: center;
+  padding: 20px;
+}
+.point-text {
+  display: block;
+  font-size: 17px;
+  line-height: 1.7em;
+  padding-left: 10vw;
+}
+.point-text big {
+  font-size: 70px;
+  line-height: 0.1em;
+}
+.point-text small {
+  font-size: 15px;
+  vertical-align:middle; 
+}
+@media only screen and (min-width: 768px) and (max-width: 979px) {
+  .point-graphic {
+    float: left;
+    width: 40%;
+    padding-left: 5%;
+  }
+  .point-text {
+    float: left;
+    width: 47%;
+    font-size: 24px;
+    padding-left: 20px;
+  }
+}
+@media only screen and (min-width: 980px) {
+  .point-graphic {
+    float: left;
+    width: 35%;
+    padding-left: calc(1.3 * 10%);
+    font-size: 80px;
+  }
+  .point-text {
+    float: left;
+    width: 47%;
+    font-size: 24px;
+    padding-left: 0px;
+  }
 }
