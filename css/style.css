@@ -200,8 +200,13 @@ blockquote {
   left: calc(-50vw + 50%);
   background: dodgerblue;
   color: white;
-  top: -90px;
+  top: -120px;
   padding: 40px 0px 40px 0px;
+}
+@media only screen and (min-width: 768px) {
+  .section-head {
+    top: -90px;
+  }
 }
 .section-head:after {
   position: absolute;
@@ -221,7 +226,7 @@ blockquote {
   background: white;
   color: royalblue;
   top: 40px;
-  padding: 40px 0px 40px 0px;
+  padding: 0px 0px 40px 0px;
 }
 .section-blue {
   float: left;
