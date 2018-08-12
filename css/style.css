@@ -200,7 +200,7 @@ blockquote {
   left: calc(-50vw + 50%);
   background: dodgerblue;
   color: white;
-  top: 0;
+  top: -90px;
   padding: 40px 0px 40px 0px;
 }
 .section-head:after {
