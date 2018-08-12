@@ -225,7 +225,6 @@ blockquote {
   left: calc(-50vw + 50%);
   background: white;
   color: royalblue;
-  top: 40px;
   padding: 0px 0px 40px 0px;
 }
 .section-blue {
@@ -235,7 +234,6 @@ blockquote {
   left: calc(-50vw + 50%);
   background: dodgerblue;
   color: white;
-  top: 40px;
   padding: 40px 0px 40px 0px;
 }
 .slogan {
