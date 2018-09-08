@@ -6,7 +6,7 @@ permalink: /catch-and-release/
 tags: translation
 ---
 
-I first noticed and immediately got caught by the song *Catch & Release* by [Matt Simons](http://mattsimonsmusic.com/){:target="_blank"} which is number two in [Billboard's France Songs](http://www.billboard.com/charts/france-songs){:target="_blank"} *yesterday*. Yeah, a huge delay that over a year after it is released.
+I first noticed and immediately got caught by the song *Catch & Release* by [Matt Simons](http://mattsimonsmusic.com/) which is number two in [Billboard's France Songs](http://www.billboard.com/charts/france-songs) *yesterday*. Yeah, a huge delay that over a year after it is released.
 
 Although it became a hit in Europe, this song seems not that popular in the United States. It is not a news that the things trending in Taiwan often follows the US.
 
