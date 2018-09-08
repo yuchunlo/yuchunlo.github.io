@@ -1,11 +1,12 @@
 ---
 layout: default
 title: 4 Strategies To Find The Work Only You Can Do (And Why It's More Profitable Than Ever)
+description: Found your monopoly with your unique strengths, and four strategies from Taylor Pearson.
 date: 2018-01-06
 permalink: /the-work-only-you-can-do/
 ---
 
-Here is my note for ["4 Strategies To Find The Work Only You Can Do (And Why It's More Profitable Than Ever)"](https://taylorpearson.me/thework/){:target="_blank"} by Taylor Pearson.
+Here is my note for ["4 Strategies To Find The Work Only You Can Do (And Why It's More Profitable Than Ever)"](https://taylorpearson.me/thework/) by Taylor Pearson.
 
 ## The work only you can do
 There are stages of a career: getting competent, getting good, getting paid well, and most people stop here. But there is a final stage on which a monopoly founded. It's "the work only you can do."
@@ -21,9 +22,9 @@ There are two facts when it refers to your strengths:
 - Your individual skill set follows a power law. It means your performance is built on a small number of skills of you.
 - Your strengths never fall within "industrial notions of boundedness around skill sets" as they are not commoditazible but monopolistic.
 
-> Productivity, and profits, in an entrepreneurial economy are achieved by working on complex projects where progress isn't made in a straight line, but in a seemingly [rambling, meandering](http://www.tempobook.com/2011/08/17/daemons-and-the-mindful-learning-curve/){:target="_blank"} path, combining different concepts, skill sets and experiences from different domains.
+> Productivity, and profits, in an entrepreneurial economy are achieved by working on complex projects where progress isn't made in a straight line, but in a seemingly [rambling, meandering](http://www.tempobook.com/2011/08/17/daemons-and-the-mindful-learning-curve/) path, combining different concepts, skill sets and experiences from different domains.
 
-If we categorize our work using [Cynefin framework](https://hbr.org/2007/11/a-leaders-framework-for-decision-making){:target="_blank"}, you can see "boundedness in the entrepreneurial economy is complex instead of complicated." There is no specific way to get the right answer to resolve the "unknown unknowns" in the complex domain. This is where your unique strengths come into play.
+If we categorize our work using [Cynefin framework](https://hbr.org/2007/11/a-leaders-framework-for-decision-making), you can see "boundedness in the entrepreneurial economy is complex instead of complicated." There is no specific way to get the right answer to resolve the "unknown unknowns" in the complex domain. This is where your unique strengths come into play.
 
 > The question then becomes: How can you find your unique strengths, to do the work only you can do, to serve a growing market?
 
@@ -52,7 +53,7 @@ Simplify your life with elimination, automation and delegation so that you can f
 ### Discover your unique ability from the others' eyes
 Pick 10 people who have known you well in different contexts in your life (childhood, high school, college, jobs, and etc.), and send them an email asking how do they think of the characteristics, talents and strengths that differentiate you from others. In their responses, look for commonalities and recurrences of any particular words or phrases, and then think about how did they shape who you are and the way you advance in your life.
 
-As Casey Neistat says, "Persistence and endurance will make you omnipotent," so please [stay on your life bus](http://www.fotocommunity.com/info/Helsinki_Bus_Station_Theory){:target="_blank"}.
+As Casey Neistat says, "Persistence and endurance will make you omnipotent," so please [stay on your life bus](http://www.fotocommunity.com/info/Helsinki_Bus_Station_Theory).
 
 ---
 
@@ -69,12 +70,12 @@ As Casey Neistat says, "Persistence and endurance will make you omnipotent," so 
 ## 獨占市場的根基：獨特優勢的組合
 你的個人優勢會符合下列兩項事實：
 
-- 你的個人技能遵循[冪定律](https://www.huxiu.com/article/122214/1.html){:target="_blank"}，這表示你的績效表現只取決於少數幾項個人技能。
+- 你的個人技能遵循[冪定律](https://www.huxiu.com/article/122214/1.html)，這表示你的績效表現只取決於少數幾項個人技能。
 - 你的優勢具備獨占性而非商品性，因此不會完全落入「對個別行業劃分的技能界線」之內。
 
 > 在創業型經濟中，你必須完成複雜的專案才能實現效率和利潤。而這些非直線式專案的進展看似散漫且不著邊際，並混合不同領域的概念、技能和經驗。
 
-如果我們利用[庫尼文架構](https://www.hbrtaiwan.com/article_content_AR0000595.html){:target="_blank"}將工作予以分類，你便會發現「創業型經濟中充斥複雜而非繁雜的工作」。你無法透過特定方法得到所謂的正確答案和解決複雜領域中「未知的未知」，而這便是個人獨特優勢得以發揮的空間。
+如果我們利用[庫尼文架構](https://www.hbrtaiwan.com/article_content_AR0000595.html)將工作予以分類，你便會發現「創業型經濟中充斥複雜而非繁雜的工作」。你無法透過特定方法得到所謂的正確答案和解決複雜領域中「未知的未知」，而這便是個人獨特優勢得以發揮的空間。
 
 > 如此一來，我們所面臨的問題就變成：你要如何找到自己的獨特優勢、投入專屬於你的工作以為成長中的市場貢獻價值？
 
