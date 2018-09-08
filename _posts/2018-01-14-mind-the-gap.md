@@ -1,11 +1,12 @@
 ---
 layout: default
 title: Mind the Gap
+description: Paul Graham on the fixed pie fallacy, and economic inequality as the result of innovation and development.
 date: 2018-01-14
 permalink: /mind-the-gap/
 ---
 
-Here is my note for ["Mind the Gap"](http://paulgraham.com/gap.html){:target="_blank"} by Paul Graham.
+Here is my note for ["Mind the Gap"](http://paulgraham.com/gap.html) by Paul Graham.
 
 > Most economic fallacies derive from the tendency to assume that there is a fixed pie, that one party can gain only at the expense of another.<br>
 > – Milton Friedman, *Free to Choose*
@@ -25,12 +26,12 @@ The extraordinary skills and determination are root causes of variation in incom
 > You need rich people in your society not so much because in spending their money they create jobs, but because of what they have to do to *get* rich. I'm not talking about the trickle-down effect here. I'm not saying that if you let Henry Ford get rich, he'll hire you as a waiter at his next party. I'm saying that he'll make you a tractor to replace your horse.
 
 ## Further reading
-- ["Economic Inequality"](https://news.ycombinator.com/item?id=10826838){:target="_blank"} by Paul Graham.
-- ["The Refragmentation"](https://news.ycombinator.com/item?id=10826836){:target="_blank"} by Paul Graham.
+- ["Economic Inequality"](https://news.ycombinator.com/item?id=10826838) by Paul Graham.
+- ["The Refragmentation"](https://news.ycombinator.com/item?id=10826836) by Paul Graham.
 
 ---
 
-以下是個人閱讀保羅．葛拉漢所撰寫之〈关注贫富分化〉([阮一峰譯](http://www.ruanyifeng.com/docs/pg/){:target="_blank"}) 的筆記。
+以下是個人閱讀保羅．葛拉漢所撰寫之〈关注贫富分化〉([阮一峰譯](http://www.ruanyifeng.com/docs/pg/)) 的筆記。
 
 > 大部分的經濟謬誤都源自於人們傾向將所有人的利益總和假設為大小固定的餡餅，也就是說其中一方所獲得的利益必須以另一方的犧牲作為代價。<br>
 > – 米爾頓．傅利曼《選擇的自由》
