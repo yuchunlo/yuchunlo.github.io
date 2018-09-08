@@ -39,7 +39,7 @@ If we categorize our work using [Cynefin framework](https://hbr.org/2007/11/a-le
 > – Steven Pressfield, *The War of Art*.
 
 ### Do an anti-productivity productivity day
-Marc Andreessen once shared some of [his personal productivity techniques](http://pmarchive.com/guide_to_personal_productivity.html){:target="_blank"} and one of them is "don't keep a schedule" which can be practiced partially or regularly.
+Marc Andreessen once shared some of [his personal productivity techniques](http://pmarchive.com/guide_to_personal_productivity.html) and one of them is "don't keep a schedule" which can be practiced partially or regularly.
 
 > By not keeping a schedule, I mean: refuse to commit to meetings, appointments, or activities at any set time in any future day.
 
