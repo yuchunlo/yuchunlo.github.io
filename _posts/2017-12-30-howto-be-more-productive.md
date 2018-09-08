@@ -1,11 +1,12 @@
 ---
 layout: default
 title: HOWTO&#58; Be more productive
+description: Productivity tips from Aaron Swartz to organize and specify important tasks in ways that follow your natural inclinations.
 date: 2017-12-30
 permalink: /howto-be-more-productive/
 ---
 
-Here is my note for ["HOWTO: Be more productive"](http://www.aaronsw.com/weblog/productivity){:target="_blank"} by Aaron Swartz.
+Here is my note for ["HOWTO: Be more productive"](http://www.aaronsw.com/weblog/productivity) by Aaron Swartz.
 
 ## Spend time efficiently
 
@@ -73,9 +74,9 @@ Break down and simplify your goal into tasks that are specific concrete steps yo
 > There are a lot of myths about productivity — that time is fungible, that focusing is good, that bribing yourself is effective, that hard work is unpleasant, that procrastinating is unnatural — but they all have a common theme: a conception of real work as something that goes against your natural inclinations.
 
 ## Further reading
-> If you want to learn more about the pscyhology of motivation, there is nothing better than [Alfie Kohn](http://www.alfiekohn.org/){:target="_blank"}. He's written [many articles on the subject](http://www.alfiekohn.org/articles/){:target="_blank"} and an entire book, *[Punished by Rewards](http://www.alfiekohn.org/punished-rewards/){:target="_blank"}*, which I highly recommend.
+> If you want to learn more about the pscyhology of motivation, there is nothing better than [Alfie Kohn](http://www.alfiekohn.org/). He's written [many articles on the subject](http://www.alfiekohn.org/articles/) and an entire book, *[Punished by Rewards](http://www.alfiekohn.org/punished-rewards/)*, which I highly recommend.
 
-> I hope to address how to quit school in a future essay, but you should really just go out and pick up *The Teenage Liberation Handbook*. If you're a computer person, one way to quit your job is by applying for funding from [Y Combinator](http://www.ycombinator.com/){:target="_blank"}. Meanwhile, Mickey Z's book *The Murdering of My Years* features artists and activists describing how they manage to make ends meet while still doing what they want.
+> I hope to address how to quit school in a future essay, but you should really just go out and pick up *The Teenage Liberation Handbook*. If you're a computer person, one way to quit your job is by applying for funding from [Y Combinator](http://www.ycombinator.com/). Meanwhile, Mickey Z's book *The Murdering of My Years* features artists and activists describing how they manage to make ends meet while still doing what they want.
 
 ---
 
