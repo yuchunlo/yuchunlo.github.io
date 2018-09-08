@@ -5,7 +5,7 @@ permalink: /blog/
 ---
 
 {% for post in site.posts %}
-{% if post.permalink and post.url != "/now/" and post.url != "/about/" %}
+{% if post.permalink and post.url != "/now/" and post.url != "/about/" and post.url != "/us/" %}
   <div id="date">{{ post.date | date: "%-d %B, %Y" }}</div>
 <!--   <div id="date">{{ post.date | date_to_string }}</div> -->
   <div id="page-title"><a href="{{ post.url }}">{{ post.title }}</a></div>
