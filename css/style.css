@@ -300,3 +300,21 @@ blockquote {
     padding-left: 0px;
   }
 }
+.button-bw {
+  background-color: royalblue;
+  border: none;
+  border-radius: 7px;
+  color: white;
+  padding: 20px 40px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  box-shadow: 0px 7px 14px 0px rgba(0,0,0,0.1);
+  -webkit-transition-duration: 0.7s; /* Safari */
+  transition-duration: 0.7s;
+  cursor: pointer;
+}
+.button-bw:hover {
+  background-color: white;
+  color: dodgerblue;
+}
