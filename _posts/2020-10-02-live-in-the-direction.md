@@ -36,6 +36,7 @@ Is there any solution? Of course we have. Let's make a DEAL as advised by Tim Fe
 
 It looks pretty much like a practice of PDCA[^3] from the end. If you already had a habit of having a weekly, monthly, quarterly, annual, or any regular review, you should be familiar with this examination. Otherwise, it is strongly recommended implementing this examination to your daily life. Keep advance with a compass in hand.
 
+## Notes
 [^1]: Thanh Pham, "The Time Management Secret That Will Eliminate All Your Time Wasters," 21st March, 2011. [https://web.archive.org/web/20110324235939/https://www.asianefficiency.com/goals/the-time-management-secret-that-will-eliminate-all-your-time-wasters/](https://web.archive.org/web/20110324235939/https://www.asianefficiency.com/goals/the-time-management-secret-that-will-eliminate-all-your-time-wasters/).
 
 [^2]: Tim Ferriss, "The 4-Hour Workweek Tools," 8th March, 2008. [https://tim.blog/4-hour-workweek-tools/](https://tim.blog/4-hour-workweek-tools/).
