@@ -16,10 +16,8 @@ Is your life in the right direction? Let's check together.
 
 Here is a practice that I learned from Thanh Pham[^1], and I call it *Direction examination*, that can tell if you are on the right track:
 
-> Grab a piece of paper and draw down a line in the middle of the paper. On the left, **write down 5 things that are most important to you** (order does not matter).
-
-> Done?
-
+> Grab a piece of paper and draw down a line in the middle of the paper. On the left, **write down 5 things that are most important to you** (order does not matter).<br>
+> Done?<br>
 > Now on the right side, **write down 5 activities you spend most of your time doing** (order does not matter).
 
 The things that are most important to you should be your values, while the activities you spend most of your time doing are your actions. After finishing the two questions, try to align the actions to the values if there is any contribution or connection. If all actions can be aligned with the values, congratulations, you are perfectly on the track. However, if the two lists mismatch a lot, then obviously you might be off track.
