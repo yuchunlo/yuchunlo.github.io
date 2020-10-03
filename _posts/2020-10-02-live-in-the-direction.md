@@ -26,7 +26,7 @@ Here is a practice that I learned from Thanh Pham[^1], and I call it *Direction 
 
 > Now on the right side, **write down 5 activities you spend most of your time doing** (order does not matter).
 
-The things that are most important to you should be your values, while the activities you spend most of your time doing are your actions. After finishing the two questions, try to align the actions to the values if there is any contribution or connection. If all actions can be aligned with the values, congratulations, you are perfectly on the track. However, if the two lists mismatch a lot, then obviously you might not be on the way to your dream life.
+The things that are most important to you should be your values, while the activities you spend most of your time doing are your actions. After finishing the two questions, try to align the actions to the values if there is any contribution or connection. If all actions can be aligned with the values, congratulations, you are perfectly on the track. However, if the two lists mismatch a lot, then obviously you might be off track.
 
 Is there any solution? Of course we have. Let's make a DEAL as advised by Tim Ferriss[^2].
 - **D for definition.** Actually you have already completed the definition of your own values.
