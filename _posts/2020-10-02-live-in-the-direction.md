@@ -7,13 +7,9 @@ permalink: /live-in-the-direction/
 ---
 
 > "Would you tell me, please, which way I ought to go from here?"
-
 > "That depends a good deal on where you want to get to," said the Cat.
-
 > "I don't much care where ..." said Alice.
-
 > "Then it doesn't matter which way you go," said the Cat.
-
 > – Lewis Carroll, *Alice in Wonderland*
 
 Is your life in the right direction? Let's check together.
