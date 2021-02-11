@@ -6,7 +6,7 @@ date: 2021-02-12
 permalink: /visualize-volatility-and-roi/
 ---
 
-> In the short run, the market is a voting machine, but in the long run it is a weighing machine.
+> In the short run, the market is a voting machine, but in the long run it is a weighing machine.<br>
 > – Benjamin Graham, *The Intelligent Investor*
 
 How does the equity volatility of Tesla ([NASDAQ:TSLA](https://www.nasdaq.com/market-activity/stocks/tsla)) impact your return on investment on it? Let's figure it out with [Python](https://www.python.org/).
