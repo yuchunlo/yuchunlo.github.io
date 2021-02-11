@@ -6,18 +6,16 @@ date: 2021-02-12
 permalink: /visualize-volatility-and-roi/
 ---
 
-<p align="center">
-  ![TSLA volatility and ROI of all time (static)](https://raw.githubusercontent.com/yuchunlo/yuchunlo.github.io/05770584622e5696de9326688987dafb4fbe840f/assets/TSLA_2016-02-16_2021-02-11.svg)
-</p>
-
 How does the equity volatility of Tesla ([NASDAQ:TSLA](https://www.nasdaq.com/market-activity/stocks/tsla)) impact your return on investment on it? Let's figure it out with [Python](https://www.python.org/).
+
+Python (3.8.2), kaleido, [numpy](https://numpy.org/), [pandas](https://pandas.pydata.org/), [pandas-datareader](https://github.com/pydata/pandas-datareader), [plotly](https://plotly.com/python/), psutil, and [yfinance](https://github.com/ranaroussi/yfinance) are required.
+
+![TSLA volatility and ROI of all time (static)](https://raw.githubusercontent.com/yuchunlo/yuchunlo.github.io/05770584622e5696de9326688987dafb4fbe840f/assets/TSLA_2016-02-16_2021-02-11.svg)
 
 Three plots will be created with the following script:
 - Static plot of price changes and ROI of all time
 - Dynamic plot of price changes and ROI of all time
 - Dynamic plot of price changes and ROI within one year
-
-Python (3.8.2), kaleido, [numpy](https://numpy.org/), [pandas](https://pandas.pydata.org/), [pandas-datareader](https://github.com/pydata/pandas-datareader), [plotly](https://plotly.com/python/), psutil, and [yfinance](https://github.com/ranaroussi/yfinance) are required.
 
 ```python
 from datetime import datetime, timedelta, timezone
