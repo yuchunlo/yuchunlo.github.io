@@ -2,6 +2,8 @@ name: Yu-Chun Lo
 title: Yu-Chun Lo
 url: http://yuchunlo.github.io
 markdown: kramdown
+kramdown:
+  syntax_highlighter: rouge
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
