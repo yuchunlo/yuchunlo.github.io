@@ -5,7 +5,6 @@
   </head>
   <body>
     <div id='demo'>
-      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
       <p id='score' />
       <p id='output' />
       <div id='imgd'><img id='img'></div>
@@ -14,6 +13,7 @@
   <script>
     var score = 0; 
     var imgSize = '200px'; 
+    var btnStyle = 'width: 100%; display: block; padding: 10px; margin: 10px'; 
     const strDict = {
       '"Keep your fears to yourself, but share your courage with others." – Robert Louis Stevenson': 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Robert_Louis_Stevenson_by_Henry_Walter_Barnett_bw.jpg/360px-Robert_Louis_Stevenson_by_Henry_Walter_Barnett_bw.jpg', 
       '"Seek simplicity and distrust it." – Alfred North Whitehead': 'https://upload.wikimedia.org/wikipedia/en/6/61/Alfred_North_Whitehead_in_1936.jpg', 
@@ -37,9 +37,12 @@
     nextBtn.innerHTML = 'Good'; 
     passBtn.innerHTML = 'Pass'; 
     resetBtn.innerHTML = 'Reset'; 
-    nextBtn.className = 'btn btn-primary btn-lg btn-block'; 
-    passBtn.className = 'btn btn-secondary btn-lg btn-block'; 
-    resetBtn.className = 'btn btn-info btn-lg btn-block'; 
+    nextBtn.style = btnStyle; 
+    passBtn.style = btnStyle; 
+    resetBtn.style = btnStyle; 
+    nextBtn.style.background = 'dodgerblue'; 
+    passBtn.style.background = 'gray'; 
+    resetBtn.style.background = 'royalblue'; 
 
     // add event handler
     nextBtn.addEventListener ('click', function addScore() {
@@ -91,7 +94,8 @@
 
         const refreshBtn = document.createElement('button'); 
         refreshBtn.innerHTML = 'Refresh'; 
-        refreshBtn.className = 'btn btn-success btn-lg btn-block'; 
+        refreshBtn.style = btnStyle; 
+        refreshBtn.style.background = 'slateblue'; 
         refreshBtn.addEventListener ('click', function refreshPage() {
           location.reload(); 
         }); 
