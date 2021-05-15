@@ -1,0 +1,107 @@
+<html>
+  <head>
+    <meta charset='utf-8'>
+    <script src='https://code.jquery.com/jquery-3.5.1.min.js'></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
+  </head>
+  <body>
+    <p id='score' />
+    <p id='output' />
+    <div id='imgd'><img id='img'></div>
+  </body>
+  <script>
+    var score = 0; 
+    var imgSize = 200; 
+    const strDict = {
+      '"Keep your fears to yourself, but share your courage with others." – Robert Louis Stevenson': 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Robert_Louis_Stevenson_by_Henry_Walter_Barnett_bw.jpg/360px-Robert_Louis_Stevenson_by_Henry_Walter_Barnett_bw.jpg', 
+      '"Seek simplicity and distrust it." – Alfred North Whitehead': 'https://upload.wikimedia.org/wikipedia/en/6/61/Alfred_North_Whitehead_in_1936.jpg', 
+      '"If what you are doing is not important, and if you don\'t think it is going to lead to something important, why are you at Bell Labs working on it?" – Richard Wesley Hamming': 'https://upload.wikimedia.org/wikipedia/en/0/08/Richard_Hamming.jpg', 
+      '"Set your life on fire. Seek those who fan your flames." – Jalal ad-Din Rumi': 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Rumi_Vignette_by_User_Chyah.jpg/203px-Rumi_Vignette_by_User_Chyah.jpg', 
+      '"Vision is the art of seeing what is invisible to others." – Jonathan Swift': 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Jonathan_Swift_by_Charles_Jervas_detail.jpg/213px-Jonathan_Swift_by_Charles_Jervas_detail.jpg', 
+      '"Art is not what you see, but what you make others see." – Edgar Degas': 'https://upload.wikimedia.org/wikipedia/commons/2/24/Edgar_Degas_%281834-1917%29.jpg', 
+      '"Get action. Do things; be sane; don\'t fritter away your time; create, act, take a place wherever you are and be somebody; get action." – Theodore Roosevelt': 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/President_Roosevelt_-_Pach_Bros_%28cropped%29.jpg/356px-President_Roosevelt_-_Pach_Bros_%28cropped%29.jpg', 
+      /*
+      '"The brick walls are there to give us a chance to show how badly we want something." – Randy Pausch': 'https://upload.wikimedia.org/wikipedia/commons/4/4e/RandyPausch_Wiki_2.jpg', 
+      '"We are what we repeatedly do. Excellence, then, is not an act, but a habit." – Aristotle': 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Aristotle_Altemps_Inv8575.jpg/359px-Aristotle_Altemps_Inv8575.jpg', 
+      '"Routine, in an intelligent man, is a sign of ambition." – W. H. Auden': 'https://upload.wikimedia.org/wikipedia/commons/a/aa/AudenVanVechten1939.jpg', 
+      '"You don\'t lead by hitting people over the head—that\'s assault, not leadership." – Dwight Eisenhower': 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959.jpg/383px-Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959.jpg', 
+      */
+    }; 
+
+    // create a button
+    const nextBtn = document.createElement('button'); 
+    const passBtn = document.createElement('button'); 
+    const resetBtn = document.createElement('button'); 
+    nextBtn.innerHTML = 'Good'; 
+    passBtn.innerHTML = 'Pass'; 
+    resetBtn.innerHTML = 'Reset'; 
+    nextBtn.className = 'btn btn-primary btn-lg btn-block'; 
+    passBtn.className = 'btn btn-secondary btn-lg btn-block'; 
+    resetBtn.className = 'btn btn-info btn-lg btn-block'; 
+
+    // add event handler
+    nextBtn.addEventListener ('click', function addScore() {
+      score++; 
+      document.getElementById('score').innerHTML = score; 
+      getRandomStr(); 
+    }); 
+    passBtn.addEventListener ('click', function passCurr() {
+      getRandomStr(); 
+    }); 
+    resetBtn.addEventListener ('click', function resetScore() {
+      score = 0; 
+      document.getElementById('score').innerHTML = score; 
+    }); 
+
+    // append a button to body
+    const body = document.getElementsByTagName('body')[0]; 
+    body.appendChild(nextBtn); 
+    body.appendChild(passBtn); 
+    body.appendChild(resetBtn); 
+    body.style.textAlign = 'center'; 
+    body.style.padding = '7vw'; 
+
+    document.getElementById('score').innerHTML = score; 
+    document.getElementById('output').style.fontSize = 'x-large'; 
+
+    const imgd = document.getElementsByTagName('div')[0];
+    imgd.style.height = imgSize; 
+    imgd.style.overflow = 'hidden'; 
+    imgd.style.margin = '1vw'; 
+    document.getElementById('img').style.height = '100%'; 
+
+    getRandomStr(); 
+
+    function getRandomInt(min, max) {
+      min = Math.ceil(min); 
+      max = Math.floor(max); 
+      return Math.floor(Math.random() * (max - min) + min); // the maximum is exclusive and the minimum is inclusive
+    }; 
+
+    function getRandomStr() {
+      if (Object.keys(strDict).length < 1) {
+        document.getElementById('output').innerHTML = 'End.'; 
+
+        // remove images and buttons
+        document.getElementById('img').remove(); 
+        buttons = document.getElementsByTagName('button'); 
+        while (buttons[0]) buttons[0].parentNode.removeChild(buttons[0]); 
+
+        const refreshBtn = document.createElement('button'); 
+        refreshBtn.innerHTML = 'Refresh'; 
+        refreshBtn.className = 'btn btn-success btn-lg btn-block'; 
+        refreshBtn.addEventListener ('click', function refreshPage() {
+          location.reload(); 
+        }); 
+        body.appendChild(refreshBtn); 
+      }
+      else {
+        rNum = getRandomInt(0, Object.keys(strDict).length); 
+        rStr = Object.keys(strDict)[rNum].replace(/\n/g, '<br>'); 
+        document.getElementById('output').innerHTML = rStr; 
+        document.getElementById('img').setAttribute('src', Object.values(strDict)[rNum]); 
+        delete strDict[Object.keys(strDict)[rNum]]; 
+      }; 
+    }; 
+  </script>
+</html>
