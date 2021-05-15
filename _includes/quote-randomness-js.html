@@ -5,9 +5,11 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
   </head>
   <body>
-    <p id='score' />
-    <p id='output' />
-    <div id='imgd'><img id='img'></div>
+    <div id='demo'>
+      <p id='score' />
+      <p id='output' />
+      <div id='imgd'><img id='img'></div>
+    </div>
   </body>
   <script>
     var score = 0; 
@@ -53,18 +55,18 @@
       document.getElementById('score').innerHTML = score; 
     }); 
 
-    // append a button to body
-    const body = document.getElementsByTagName('body')[0]; 
-    body.appendChild(nextBtn); 
-    body.appendChild(passBtn); 
-    body.appendChild(resetBtn); 
-    body.style.textAlign = 'center'; 
-    body.style.padding = '7vw'; 
+    // append a button to demo
+    const demo = document.getElementById('demo'); 
+    demo.appendChild(nextBtn); 
+    demo.appendChild(passBtn); 
+    demo.appendChild(resetBtn); 
+    demo.style.textAlign = 'center'; 
+    demo.style.padding = '7vw'; 
 
     document.getElementById('score').innerHTML = score; 
     document.getElementById('output').style.fontSize = 'x-large'; 
 
-    const imgd = document.getElementsByTagName('div')[0];
+    const imgd = document.getElementById('imgd'); 
     imgd.style.height = imgSize; 
     imgd.style.overflow = 'hidden'; 
     imgd.style.margin = '1vw'; 
@@ -93,7 +95,7 @@
         refreshBtn.addEventListener ('click', function refreshPage() {
           location.reload(); 
         }); 
-        body.appendChild(refreshBtn); 
+        demo.appendChild(refreshBtn); 
       }
       else {
         rNum = getRandomInt(0, Object.keys(strDict).length); 
