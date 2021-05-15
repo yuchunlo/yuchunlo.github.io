@@ -6,19 +6,14 @@ date: 2021-05-15
 permalink: /simple-randomness-generation/
 ---
 
-> The epiphany I had in my career in randomness came when I understood that I was not intelligent enough, nor strong enough, to even try to fight my emotions. Besides, I believe that I need my emotions to formulate my ideas and get the energy to execute them.
-> I am just intelligent enough to understand that I have a predisposition to be fooled by randomness—and to accept the fact that I am rather emotional. I am dominated by my emotions—but as an aesthete, I am happy about that fact.
+> The epiphany I had in my career in randomness came when I understood that I was not intelligent enough, nor strong enough, to even try to fight my emotions. Besides, I believe that I need my emotions to formulate my ideas and get the energy to execute them.<br>
+> I am just intelligent enough to understand that I have a predisposition to be fooled by randomness—and to accept the fact that I am rather emotional. I am dominated by my emotions—but as an aesthete, I am happy about that fact.<br>
 > – Nassim Nicholas Taleb, *Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets*
 
-To sample without replacement in Python:
+Here is a demo:
+{% include quote-randomness-js.html %}
 
-```python
-import numpy as np
-n = 7
-N = np.random.choice(n, n, replace=False)
-```
-
-For sampling an item from a dictionary `strDict` in JavaScript, and display the random string to `output` and image to `img` in HTML.
+To sample an item from a dictionary `strDict` in JavaScript, and display the random string to `output` and image to `img` in HTML.
 
 ```javascript
 function getRandomInt(min, max) {
@@ -54,5 +49,10 @@ function getRandomStr() {
 }; 
 ```
 
-Here is the demo:
-{% include quote-randomness-js.html %}
+To sample without replacement in Python:
+
+```python
+import numpy as np
+n = 7
+N = np.random.choice(n, n, replace=False)
+```
