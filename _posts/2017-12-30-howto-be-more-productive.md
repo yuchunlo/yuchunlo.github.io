@@ -4,6 +4,8 @@ title: HOWTO&#58; Be more productive
 description: Productivity tips from Aaron Swartz to organize and specify important tasks in ways that follow your natural inclinations.
 date: 2017-12-30
 permalink: /howto-be-more-productive/
+tags:
+- productivity
 ---
 
 Here is my note for ["HOWTO: Be more productive"](http://www.aaronsw.com/weblog/productivity) by Aaron Swartz.
