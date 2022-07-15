@@ -320,6 +320,7 @@ blockquote {
 }
 .tag {
   font-family: 'Verdana', 'PingFang TC', 'Microsoft JhengHei', sans-serif;
+  font-size: 23px;
   background-color: #2980b9;
   border: none;
   border-radius: 4px;
