@@ -8,7 +8,7 @@ permalink: /tags/
 
 {% for tag in site_tags_sorted %}
   {% if tag != site_tags_sorted.last %}
-    <a href='/blog/#{{ tag | slugify }}'>{{ tag }}</a> | 
+    <a href='/blog/#{{ tag | slugify }}'>{{ tag }}</a> / 
   {% else %}
     <a href='/blog/#{{ tag | slugify }}'>{{ tag }}</a>
   {% endif %}
@@ -16,7 +16,7 @@ permalink: /tags/
 
 {% for tag in site_tags_sorted %}
   <div name='{{ tag | slugify }}'>
-    <div id='page-title'>{{ tag }}</div>
+    #{{ tag }}<br>
     {% for post in site.tags[tag] %}
       <div id='date'>{{ post.date | date: '%-d %B, %Y' }}</div>
       <div id='page-title'><a href='{{ post.url }}'>{{ post.title }}</a></div>
