@@ -6,10 +6,11 @@ permalink: /tags/
 {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
 {% assign site_tags_sorted = site_tags | split:',' | sort %}
 
-/ 
+<div> | 
 {% for tag in site_tags_sorted %}
-  <a href='/blog/#{{ tag | slugify }}'>{{ tag | strip_newlines }}</a> / 
+  <a href='/blog/#{{ tag | slugify }}'>{{ tag | strip_newlines }}</a> | 
 {% endfor %}
+</div>
 
 {% for tag in site_tags_sorted %}
   <div name='{{ tag | slugify }}'>
