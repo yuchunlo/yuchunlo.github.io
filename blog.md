@@ -11,7 +11,7 @@ permalink: /blog/
 {% for tag in site_tags_sorted %}
   <a href='/blog/#{{ tag | slugify }}'>{{ tag | strip_newlines }}</a> | 
 {% endfor %}
-</div><br><br><br>
+</div><br>
 
 {% for tag in site_tags_sorted %}
   <div name='{{ tag | slugify }}'>
