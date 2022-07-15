@@ -8,11 +8,7 @@ permalink: /blog/
 {% assign site_tags_sorted = site_tags | split:',' | sort %}
 
 {% for tag in site_tags_sorted %}
-  {% if tag != site_tags_sorted.last %}
-  <a href='/blog/#{{ tag | slugify }}' style='white-space:nowrap;'>{{ tag }}</a> | 
-  {% else %}
   <a href='/blog/#{{ tag | slugify }}' style='white-space:nowrap;'>{{ tag }}</a>
-  {% endif %}
 {% endfor %}
 
 {% if page.url == '/blog/' %}
