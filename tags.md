@@ -8,7 +8,7 @@ permalink: /tags/
 
 / 
 {% for tag in site_tags_sorted %}
-  <a href='/blog/#{{ tag | slugify }}'>{{ tag }}</a> / 
+  <a href='/blog/#{{ tag | slugify }}'>{{ tag | strip_newlines }}</a> / 
 {% endfor %}
 
 {% for tag in site_tags_sorted %}
