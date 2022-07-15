@@ -23,7 +23,7 @@ permalink: /blog/
       {{ post.content | truncatewords: 50 | strip_html | xml_escape }}
       <a href='{{ post.url }}'>[Read&nbsp;More]</a>
       <br><br><br>
-    {% endifs %}
+    {% endif %}
   {% endfor %}
 {% else %}
   {% for tag in site_tags_sorted %}
