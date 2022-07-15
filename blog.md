@@ -17,7 +17,7 @@ permalink: /blog/
 
 {% if page.url == '/blog/' %}
   {% for post in site.posts %}
-    {% if post.url not in ['/now/', '/about/', '/us/'] %}
+    {% if post.url not in '/about/now/us/' %}
       <div id='date'>{{ post.date | date: '%-d %B, %Y' }}</div>
       <div id='page-title'><a href='{{ post.url }}'>{{ post.title }}</a></div>
       {{ post.content | truncatewords: 50 | strip_html | xml_escape }}
