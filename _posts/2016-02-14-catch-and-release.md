@@ -4,7 +4,8 @@ title: Catch & Release by Matt Simons
 description: The song Catch & Release by Matt Simons was a hit in Europe. Here is my Chinese version of the lyrics to share with you.
 date: 2016-02-14
 permalink: /catch-and-release/
-tags: translation
+tags:
+- translation
 ---
 
 I first noticed and immediately got caught by the song *Catch & Release* by [Matt Simons](http://mattsimonsmusic.com/) which is number two in [Billboard's France Songs](http://www.billboard.com/charts/france-songs) *yesterday*. Yeah, a huge delay that over a year after it is released.
