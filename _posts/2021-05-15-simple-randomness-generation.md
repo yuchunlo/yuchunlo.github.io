@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Simple randomness generation
 description: Get a random item in JavaScript and Python.
 date: 2021-05-15
