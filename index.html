@@ -2,7 +2,7 @@
 layout: blank
 permalink: /
 ---
-{% assign postYearFilter = site.time | date: "%Y" | minus: 10 %}
+{% assign postYearFilter = site.time | date: '%Y' | minus: 10 %}
 {% for post in site.posts %}
 {% assign postYear = post.date | date: "%Y" %}
 {% if post.layout == 'post' and postYear > postYearFilter %}
