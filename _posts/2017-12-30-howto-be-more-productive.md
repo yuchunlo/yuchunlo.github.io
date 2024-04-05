@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: HOWTO&#58; Be more productive
 description: Productivity tips from Aaron Swartz to organize and specify important tasks in ways that follow your natural inclinations.
 date: 2017-12-30
