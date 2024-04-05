@@ -1,8 +1,4 @@
-- title: Pricing
-  permalink: /pricing/
-- title: Blog
-  permalink: /blog/
+# - title: Blog
+#   permalink: /blog/
 - title: Now
   permalink: /now/
-# - title: About
-#   permalink: /about/
