@@ -10,7 +10,7 @@ The annual financial statement announcements for TWSE and TPEx companies were du
 
 {% include RevenueRanking_1953_05042024.html %}
 
-<details>
+<details markdown='block'>
   <summary>The dirty little Python script for this bubble chart.</summary>
 
   ```python
