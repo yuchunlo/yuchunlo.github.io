@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Managing Oneself
 description: Peter Drucker explains how to achieve life fulfillment by discovering your strengths, the way you work, and your values.
 date: 2017-12-16
