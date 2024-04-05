@@ -6,7 +6,7 @@ date: 2024-04-05
 permalink: /hows-the-business-going-in-2023/
 ---
 
-The annual financial statement announcements for TWSE and TPEx companies were due 1 April. Here is a bubble chart displaying the revenue, gross profit, and net profit of the 1,800+ listed profitable companies. Logarithmic axes offer a deeper dive into the details.
+The annual financial statement announcements for TWSE and TPEx companies were due 1 April. Here is a bubble chart displaying the gross profit ($x$), net profit ($y$) and revenue ($z$, size) of the 1,800+ listed profitable companies. Logarithmic axes offer a deeper dive into the details.
 
 {% include RevenueRanking_1953_05042024.html %}
 
