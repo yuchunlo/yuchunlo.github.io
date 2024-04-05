@@ -4,6 +4,8 @@ title: Managing Oneself
 description: Peter Drucker explains how to achieve life fulfillment by discovering your strengths, the way you work, and your values.
 date: 2017-12-16
 permalink: /managing-oneself/
+tags:
+- productivity
 ---
 
 Here is my note for ["Managing Oneself"](https://hbr.org/2005/01/managing-oneself) by Peter F. Drucker.
