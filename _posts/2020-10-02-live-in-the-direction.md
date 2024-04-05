@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Live in the direction
 description: Reach your Polaris with direction examination, DEAL, and PDCA as the compass in hand.
 date: 2020-10-02
