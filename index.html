@@ -5,12 +5,12 @@ permalink: /
 
 {% assign postYearFilter = site.time | date: '%Y' | minus: 10 %}
 {% for post in site.posts %}
-{% assign postYear = post.date | date: '%Y' | plus: 0 %}
-{% if postYear > postYearFilter and post.layout == 'post' %}
-  <div id='date'>{{ post.date | date: '%-d %B, %Y' }}</div>
-  <div id='page-title'><a href='{{ post.url }}'>{{ post.title }}</a></div>
-  {{ post.content | truncatewords: 50 | strip_html | xml_escape }}
-  <a href='{{ post.url }}'>[Read&nbsp;More]</a>
-  <br><br><br>
-{% endif %}
+  {% assign postYear = post.date | date: '%Y' | plus: 0 %}
+  {% if postYear > postYearFilter and post.layout == 'post' %}
+    <div id='date'>{{ post.date | date: '%-d %B, %Y' }}</div>
+    <div id='page-title'><a href='{{ post.url }}'>{{ post.title }}</a></div>
+    {{ post.content | truncatewords: 50 | strip_html | xml_escape }}
+    <a href='{{ post.url }}'>[Read&nbsp;More]</a>
+    <br><br><br>
+  {% endif %}
 {% endfor %}
