@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: 4 Strategies To Find The Work Only You Can Do (And Why It's More Profitable Than Ever)
 description: Found your monopoly with your unique strengths, and four strategies from Taylor Pearson.
 date: 2018-01-06
@@ -57,7 +57,7 @@ As Casey Neistat says, "Persistence and endurance will make you omnipotent," so 
 
 ---
 
-以下是個人閱讀泰勒．皮爾森所撰寫之〈4 Strategies To Find The Work Only You Can Do (And Why It's More Profitable Than Ever)〉的筆記。
+以下是個人閱讀泰勒．皮爾森所撰寫之 *4 Strategies To Find The Work Only You Can Do (And Why It's More Profitable Than Ever)* 的筆記。
 
 ## 專屬於你的工作
 一般人的職涯都會經歷足堪勝任、出類拔萃和功成利達等階段，卻也僅止於此。但職涯的最終階段應該是找到專屬於你的工作，開創獨占市場。
