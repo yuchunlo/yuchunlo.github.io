@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Mind the Gap
 description: Paul Graham on the fixed pie fallacy, and economic inequality as the result of innovation and development.
 date: 2018-01-14
