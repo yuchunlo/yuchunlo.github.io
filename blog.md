@@ -19,7 +19,7 @@ permalink: /blog/
     {% for post in site.tags[tag] %}
       <div id='date'><br>{{ post.date | date: '%-d %B, %Y' }}</div>
       <div id='page-title'><a href='{{ post.url }}'>{{ post.title }}</a></div>
-      {{ post.content | truncatewords: 50 | xml_escape }}
+      {{ post.content | truncatewords: 100 | xml_escape }}
       <a href='{{ post.url }}'>[Read&nbsp;More]</a>
       <br><br><br>
     {% endfor %}
