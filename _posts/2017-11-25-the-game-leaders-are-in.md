@@ -4,7 +4,8 @@ title: Most leaders don't even know the game they are in - Simon Sinek at Live2L
 description: Great leaders lead with empathy and perspective. Vulnerability drives growth. Compete against yourself to thrive in infinite games today.
 date: 2017-11-25
 permalink: /the-game-leaders-are-in/
-tags: leadership
+tags:
+- leadership
 ---
 
 <p><div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/RyTQ5-SQYTo" frameborder="0" allowfullscreen></iframe></div></p>
