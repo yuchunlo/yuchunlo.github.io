@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Visualize volatility and ROI
 description: Visualize equity price changes and return on investment by pandas-datareader, yfinance, and Plotly in Python.
 date: 2021-02-12
