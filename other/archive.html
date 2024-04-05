@@ -7,10 +7,10 @@ permalink: /archive/
 {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
 {% assign site_tags_sorted = site_tags | split:',' | sort %}
 
-<div id='top'>| {% for tag in site_tags_sorted %}<a href]'{{ tag  }}'>{{ tag  }}</a> | {% endfor %}</div>
+<div id='top'>| {% for tag in site_tags_sorted %}<a href='{{ tag  }}'>{{ tag  }}</a> | {% endfor %}</div><br><br><br>
 
 {% for tag in site_tags_sorted %}
-  <button class='tag' id='{{ tag }}'>{{ tag }}</button>
+  <button class='tag' id='{{ tag }}'>{{ tag }}</button><br>
   {% for post in site.tags[tag] %}
     <div id='date'>{{ post.date | date: '%-d %B, %Y' }}</div>
     <div id='page-title'><a href='{{ post.url }}'>{{ post.title }}</a></div>
@@ -18,5 +18,5 @@ permalink: /archive/
     <a href='{{ post.url }}'>[Read&nbsp;More]</a>
     <br><br><br>
   {% endfor %}
-  <a href='#top' style='text-align: right'>back to top</a>
+  <a href='#top' style='text-align: right'>back to top</a><br>
 {% endfor %}
